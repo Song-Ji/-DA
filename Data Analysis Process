@@ -1,0 +1,37 @@
+1. Define your questions or requirement gathering
+Find out the purpose or aim of doing the analysis. Questions should be measurable, clear and concise.
+For example, start with a clearly defined problem: A government contractor is experiencing rising costs and is no longer able to submit competitive contract proposals. One of many questions to solve this business problem might include: Can the company reduce its staff without compromising quality?
+
+2. Set clear measurement priorities
+A. Decide what to measure
+using the government contractor example, consider what kind of data you need to answer your key question. In this case, you need to know the number and cost of current staff and the percentage of time they spend on necessary business functions. In answering this quesiton, you likely need to answer many sub-questions(e.g., Are staff currently under-utilised? If so, what process improvements would help?). Finally, in your decision on what to measure, be sure to include any reasonable objections any stakeholders might have(e.g., If staff are reduced, how would the company respond to surges in demand?).
+B. Decide how to measure it
+Thinking about how you measure your data is just as important, especially before the data collection phase, because your measuring process either backs up or discredits your analysis later on. Key questions to ask for this step include:
+1. what is your time frame?(e.g., annual versus quarterly costs)
+2. what factors should be included?(e.g., just annual salary versus annual salary plus cost of staff benefits)
+
+3. Data Collection
+After setting clear measurement priorities, you will get a clear idea about what things you have to measure and what should be your findings. Now it's time to collect your data based on requirements. Once you collect your data, remember that the collected data must be processed or organized for analysis. As you collect data from various sources, you must have to keep a log with a collection data and source of the data. Also there are few points you need to keep in mind:
+1. Before you collect new data, determine what information could be collected from existing databases or sources on hand. Collect this data first.
+2. Determine a file storing and naming system ahead of time to help all tasked team members collaborate. This process saves time and prevents team members from collecting the same information twice.
+3. If you need to gather data via observation or interviews, then develop an interview template ahead of time to ensure consistency and save time.
+4. Keep your collected data organised in a log with collection dates and add any source notes as you go(including any data normalisation performed). This practice validates your conclusions down the road.
+
+4. Data Cleaning
+Now whatever data is collected may not be useful or irrelevant to your aim of analysis, hence it should be cleaned. The data which is collected may contain duplicate records, white spaces or errors. The data should be cleaned and error free.
+
+5. Data Analysis
+Begin by manipulating your data in a number of different ways, such as plotting it out and finding correlations or by creating a pivot table which let you sort and filter data by different variables and lets you calculate the mean, maximum, standard deviation of your date. You may find you have the exact information you need, or you might need to collect more data. During this phase, you can use data analysis tools and software which will help you to understand, interpret, and derive conclusions based on the requirements.
+
+6. Data Interpretation
+After analyzing your data, it's finally time to interpret your results. Keep in mind that you cannot ever prove a hypothesis true: rather, you can only fail to reject the hypothesis. Meaning that no matter how much data you collect, chance could always interfere with your results.
+As you interpret the results of your data, ask yourself these key questions:
+1. Does the data answer your orginal question? how?
+2. Does the data help you defend against any objections? how?
+3. Are there any limitation on your conclusion, any angles you haven't considered?
+You can choose the way to express your data analysis either you can use simply in words or maybe a table or chart.
+
+7. Data Visualization
+Data visualization is very common. They often appear in the form of charts and graphs. Data shown graphically so that it will be easier for the human brain to understand and process it. Data visualization often used to discover unknown facts and trends.
+
+
